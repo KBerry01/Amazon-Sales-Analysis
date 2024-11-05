@@ -1,2 +1,4 @@
 # Amazon-Sales-Analysis
-Amazon Sales Analysis
+My goal for this project was see what findings or trends I could derive from this data. I was orginally inspired from a linkedin post about top 15 projects to add to your portfolio. I thought this would be great spontaeous training similar to when you boss sends you a project in the real world.
+
+This project included some data cleaning which featured dropping null rows, renaming/formatting columns, and changing data types. After cleaning the data I moved on to analyzing. I first looked at the sizes of the clothing items and their relationship with quantity. I found that the combination of size medium and category T - shirts were the most sold of all items. Next I wanted to look at the relationship between the state and the amount that was paid for each delivery. I created to exploding pie charts to one being filtered with and without items that had a cancelled status. The state "MAHARASHTRA" came out with the most income with $3432940.0. Lastly took a insight in the delivery status. Most of our packages are delivered successfully through our courier.
